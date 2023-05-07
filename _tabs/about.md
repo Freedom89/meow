@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![go to my resume](/assets/info/meow.pdf)
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
 
-<a href="../assets/info/meow.pdf" target="_blank">PDF.</a>
+
+<a href="../assets/info/meow.pdf" target="_blank">Empty pdf file.</a>

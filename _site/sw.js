@@ -1,6 +1,6 @@
 self.importScripts('/meow/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20230507.062002';
+const cacheName = 'chirpy-20230507.211408';
 
 function verifyDomain(url) {
     for (const domain of allowedDomains) {

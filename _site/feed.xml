@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://0.0.0.0:4000/meow/</id>
+  <id>http://localhost:4000/meow/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-05-07T06:19:59-05:00</updated>
+  <updated>2023-05-07T21:14:07+08:00</updated>
   <author>
     <name>your_full_name</name>
-    <uri>http://0.0.0.0:4000/meow/</uri>
+    <uri>http://localhost:4000/meow/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/meow/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/meow/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://0.0.0.0:4000/meow/"/>
+    href="http://localhost:4000/meow/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 your_full_name </rights>
   <icon>/meow/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Testing</title>
-    <link href="http://0.0.0.0:4000/meow/posts/test/" rel="alternate" type="text/html" title="Testing" />
-    <published>2022-10-09T11:00:00-05:00</published>
+    <link href="http://localhost:4000/meow/posts/test/" rel="alternate" type="text/html" title="Testing" />
+    <published>2022-10-10T00:00:00+08:00</published>
   
-    <updated>2023-05-07T02:10:01-05:00</updated>
+    <updated>2023-05-07T19:20:31+08:00</updated>
   
-    <id>http://0.0.0.0:4000/meow/posts/test/</id>
-    <content src="http://0.0.0.0:4000/meow/posts/test/" />
+    <id>http://localhost:4000/meow/posts/test/</id>
+    <content src="http://localhost:4000/meow/posts/test/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -65,24 +65,22 @@ flowchart TD
 
 
 
+
   Click me
+
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+    Foo
+    Bar
+      
+        Baz
+        Qux
+      
+    
+  
 
-  ### Some Code
-  ```js
-  function logSomething(something) {
+    function logSomething(something) {
     console.log('Something', something);
-  }
-  ```
-
-
-
-
+    console.log("Something else", something...
     </summary>
   
 
